@@ -1,0 +1,26 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor folders and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+output.log
+
+# C Caches
+.pytest_cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
