@@ -25,3 +25,4 @@ output.log
 .DS_Store
 Thumbs.db
 tests/
+ocean/viz/demo_renderer.py
